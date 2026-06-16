@@ -1,4 +1,4 @@
-# Preddictive-Modeling-using-Machine-Learning
+# Predictive-Modeling-using-Machine-Learning
 
 1. Introduction
 
